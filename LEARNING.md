@@ -50,4 +50,3 @@ Career change into AI engineering. Build goal: not sure yet — exploring first,
 ## Review queue
 | Lesson | Topic to revisit |
 |--------|-----------------|
-| 00/07-docker-for-ai | NVIDIA Container Toolkit role: runtime hook that exposes host GPU driver, not a driver installer |
