@@ -42,5 +42,6 @@ Career change into AI engineering. Build goal: not sure yet — exploring first,
 | 2026-10-30 | 00/02-git-and-collaboration | 3/3 | Solid; tripped on staging area semantics (commit without add) — key concept now clear |
 | 2026-10-30 | 00/03-gpu-setup-and-cloud | 3/3 | Confused GPU clock speed with parallelism; async GPU ops (synchronize) clicked after discussion |
 | 2026-10-30 | 00/04-apis-and-keys | 3/3 | Clean; understood .env + .gitignore pattern immediately from git lesson context |
+| 2026-10-30 | 00/05-jupyter-notebooks | 3/3 | Initially confused kernel state on cell edit vs re-run; hidden state and notebook-vs-script rule solid |
 
 ## Review queue
