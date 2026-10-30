@@ -45,6 +45,7 @@ Career change into AI engineering. Build goal: not sure yet — exploring first,
 | 2026-10-30 | 00/05-jupyter-notebooks | 3/3 | Initially confused kernel state on cell edit vs re-run; hidden state and notebook-vs-script rule solid |
 | 2026-10-30 | 00/06-python-environments | 3/3 | Strong; spec-vs-lock distinction clicked immediately; pip/conda mixing rule and CUDA mismatch diagnostic solid |
 | 2026-10-30 | 00/07-docker-for-ai | 2/3 | Confused NVIDIA Container Toolkit (runtime hook exposing GPU) with installing CUDA drivers; driver vs toolkit split needs reinforcement |
+| 2026-10-30 | 00/08-editor-setup | 3/3 | Confused Pylance (type checker) vs Ruff (linter) initially; LSP abstraction boundary and basic vs strict type checking clicked |
 
 ## Review queue
 | Lesson | Topic to revisit |
