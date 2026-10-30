@@ -44,5 +44,9 @@ Career change into AI engineering. Build goal: not sure yet — exploring first,
 | 2026-10-30 | 00/04-apis-and-keys | 3/3 | Clean; understood .env + .gitignore pattern immediately from git lesson context |
 | 2026-10-30 | 00/05-jupyter-notebooks | 3/3 | Initially confused kernel state on cell edit vs re-run; hidden state and notebook-vs-script rule solid |
 | 2026-10-30 | 00/06-python-environments | 3/3 | Strong; spec-vs-lock distinction clicked immediately; pip/conda mixing rule and CUDA mismatch diagnostic solid |
+| 2026-10-30 | 00/07-docker-for-ai | 2/3 | Confused NVIDIA Container Toolkit (runtime hook exposing GPU) with installing CUDA drivers; driver vs toolkit split needs reinforcement |
 
 ## Review queue
+| Lesson | Topic to revisit |
+|--------|-----------------|
+| 00/07-docker-for-ai | NVIDIA Container Toolkit role: runtime hook that exposes host GPU driver, not a driver installer |
