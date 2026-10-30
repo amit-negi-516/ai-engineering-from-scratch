@@ -41,5 +41,6 @@ Career change into AI engineering. Build goal: not sure yet — exploring first,
 | 2026-10-30 | 00/01-dev-environment | 3/3 | Clean sweep; confused isolation (security vs version conflicts) — revisit in Phase 2 |
 | 2026-10-30 | 00/02-git-and-collaboration | 3/3 | Solid; tripped on staging area semantics (commit without add) — key concept now clear |
 | 2026-10-30 | 00/03-gpu-setup-and-cloud | 3/3 | Confused GPU clock speed with parallelism; async GPU ops (synchronize) clicked after discussion |
+| 2026-10-30 | 00/04-apis-and-keys | 3/3 | Clean; understood .env + .gitignore pattern immediately from git lesson context |
 
 ## Review queue
