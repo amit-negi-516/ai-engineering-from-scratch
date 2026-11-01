@@ -14,7 +14,7 @@ Career change into AI engineering. Build goal: not sure yet — exploring first,
 ## Path
 | Phase | Name | Status | Est. hours |
 |-------|------|--------|------------|
-| 0 | Setup & Tooling | Do | ~16 |
+| 0 | Setup & Tooling | Done | ~16 |
 | 1 | Math Foundations | Do | ~23 |
 | 2 | ML Fundamentals | Do | ~26 |
 | 3 | Deep Learning Core | Do | ~15 |
@@ -50,6 +50,7 @@ Career change into AI engineering. Build goal: not sure yet — exploring first,
 | 2026-10-31 | 00/10-terminal-and-shell | 3/3 | Solid; didn't know SSH -L port forwarding initially — concept clicked after tunnel analogy; nohup vs tmux tradeoff clear |
 | 2026-11-01 | 00/11-linux-for-ai | 3/3 | Strong; permissions and disk management clicked immediately; chmod numeric shorthand and checkpoint cleanup pattern solid |
 | 2026-11-01 | 00/12-debugging-and-profiling | 2/3 | Confused high learning rate (causes instability) with data leakage (causes suspiciously high accuracy); NaN propagation and profiling concepts solid |
+| 2026-11-01 | 00/13-python-for-ai-engineering | 2/2 | Needed deep dive on generators (used-up generator silent bug); shared references and mutable defaults clicked; standardizer leakage rule solid |
 
 ## Review queue
 | Lesson | Topic to revisit |
