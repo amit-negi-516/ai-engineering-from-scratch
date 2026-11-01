@@ -53,6 +53,7 @@ Career change into AI engineering. Build goal: not sure yet — exploring first,
 | 2026-11-01 | 00/13-python-for-ai-engineering | 2/2 | Needed deep dive on generators (used-up generator silent bug); shared references and mutable defaults clicked; standardizer leakage rule solid |
 | 2026-11-01 | 01/01-linear-algebra-intuition | 3/3 | Strong; needed concrete dataset example to grasp projection tradeoff (house sqft vs bedrooms); matrix shape as (output_dim × input_dim) clicked after pairing trace |
 | 2026-11-01 | 01/02-vectors-matrices-operations | 2/2 | Clean sweep; element-wise vs matmul distinction solid; neural network layer formula (relu(W@x+b)) connected well; needed matrix column-matching explanation from prior lesson |
+| 2026-11-01 | 01/03-matrix-transformations | 2/2 | Strong; eigenvalue compounding for RNN stability clicked after explicit 1.05^100 calculation; composition order and determinant product rule solid |
 
 ## Review queue
 | Lesson | Topic to revisit |
