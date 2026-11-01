@@ -48,6 +48,7 @@ Career change into AI engineering. Build goal: not sure yet — exploring first,
 | 2026-10-30 | 00/08-editor-setup | 3/3 | Confused Pylance (type checker) vs Ruff (linter) initially; LSP abstraction boundary and basic vs strict type checking clicked |
 | 2026-10-31 | 00/09-data-management | 3/3 | Solid; understood Parquet vs CSV tradeoff well — correctly reasoned that text data compresses poorly due to high entropy |
 | 2026-10-31 | 00/10-terminal-and-shell | 3/3 | Solid; didn't know SSH -L port forwarding initially — concept clicked after tunnel analogy; nohup vs tmux tradeoff clear |
+| 2026-11-01 | 00/11-linux-for-ai | 3/3 | Strong; permissions and disk management clicked immediately; chmod numeric shorthand and checkpoint cleanup pattern solid |
 
 ## Review queue
 | Lesson | Topic to revisit |
