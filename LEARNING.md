@@ -51,6 +51,7 @@ Career change into AI engineering. Build goal: not sure yet — exploring first,
 | 2026-11-01 | 00/11-linux-for-ai | 3/3 | Strong; permissions and disk management clicked immediately; chmod numeric shorthand and checkpoint cleanup pattern solid |
 | 2026-11-01 | 00/12-debugging-and-profiling | 2/3 | Confused high learning rate (causes instability) with data leakage (causes suspiciously high accuracy); NaN propagation and profiling concepts solid |
 | 2026-11-01 | 00/13-python-for-ai-engineering | 2/2 | Needed deep dive on generators (used-up generator silent bug); shared references and mutable defaults clicked; standardizer leakage rule solid |
+| 2026-11-01 | 01/01-linear-algebra-intuition | 3/3 | Strong; needed concrete dataset example to grasp projection tradeoff (house sqft vs bedrooms); matrix shape as (output_dim × input_dim) clicked after pairing trace |
 
 ## Review queue
 | Lesson | Topic to revisit |
