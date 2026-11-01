@@ -55,6 +55,7 @@ Career change into AI engineering. Build goal: not sure yet — exploring first,
 | 2026-11-01 | 01/02-vectors-matrices-operations | 2/2 | Clean sweep; element-wise vs matmul distinction solid; neural network layer formula (relu(W@x+b)) connected well; needed matrix column-matching explanation from prior lesson |
 | 2026-11-01 | 01/03-matrix-transformations | 2/2 | Strong; eigenvalue compounding for RNN stability clicked after explicit 1.05^100 calculation; composition order and determinant product rule solid |
 | 2026-11-01 | 01/04-calculus-for-ml | 3/3 | Strong; wrote and ran all code himself; learning rate explosion (0.1) vs convergence (0.05) clicked after hands-on experiment; Hessian intractability needed explicit walkthrough |
+| 2026-11-01 | 01/05-chain-rule-and-autodiff | 2/3 | Built full autograd engine and trained XOR MLP from scratch; confused gradient accumulation (+=) with averaging across samples — revisit multipath gradient flow |
 
 ## Review queue
 | Lesson | Topic to revisit |
