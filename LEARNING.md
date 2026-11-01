@@ -49,6 +49,7 @@ Career change into AI engineering. Build goal: not sure yet — exploring first,
 | 2026-10-31 | 00/09-data-management | 3/3 | Solid; understood Parquet vs CSV tradeoff well — correctly reasoned that text data compresses poorly due to high entropy |
 | 2026-10-31 | 00/10-terminal-and-shell | 3/3 | Solid; didn't know SSH -L port forwarding initially — concept clicked after tunnel analogy; nohup vs tmux tradeoff clear |
 | 2026-11-01 | 00/11-linux-for-ai | 3/3 | Strong; permissions and disk management clicked immediately; chmod numeric shorthand and checkpoint cleanup pattern solid |
+| 2026-11-01 | 00/12-debugging-and-profiling | 2/3 | Confused high learning rate (causes instability) with data leakage (causes suspiciously high accuracy); NaN propagation and profiling concepts solid |
 
 ## Review queue
 | Lesson | Topic to revisit |
