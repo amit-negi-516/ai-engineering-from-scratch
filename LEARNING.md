@@ -56,6 +56,7 @@ Career change into AI engineering. Build goal: not sure yet — exploring first,
 | 2026-11-01 | 01/03-matrix-transformations | 2/2 | Strong; eigenvalue compounding for RNN stability clicked after explicit 1.05^100 calculation; composition order and determinant product rule solid |
 | 2026-11-01 | 01/04-calculus-for-ml | 3/3 | Strong; wrote and ran all code himself; learning rate explosion (0.1) vs convergence (0.05) clicked after hands-on experiment; Hessian intractability needed explicit walkthrough |
 | 2026-11-01 | 01/05-chain-rule-and-autodiff | 2/3 | Built full autograd engine and trained XOR MLP from scratch; confused gradient accumulation (+=) with averaging across samples — revisit multipath gradient flow |
+| 2026-11-02 | 01/06-probability-and-distributions | 3/3 | Clean sweep; tripped on Poisson(0,3) magnitude estimate and softmax ordering preservation — both corrected during lesson |
 
 ## Review queue
 | Lesson | Topic to revisit |
